@@ -1,3 +1,7 @@
+:focus {
+    outline: 0;
+}
+
 header {
     text-align: center;
 }
@@ -60,4 +64,13 @@ h2 {
     margin-top: 10px;
     margin-bottom: 5px;
     color: rgb(56, 56, 56);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
 }
